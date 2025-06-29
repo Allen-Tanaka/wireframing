@@ -37,3 +37,21 @@ Indicates interactive features such as buttons, input fields, and other controls
 - *Example:* Including clearly labeled call-to-action buttons in a wireframe helps users understand how to complete tasks, such as submitting a form or making a purchase.
 
 Each of these elements contributes to creating intuitive, user-friendly designs that address both user needs and business goals.
+
+## Types of Wireframes
+
+Wireframes can be categorized into two main types based on their level of detail and purpose in the design process:
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches that focus on basic layout, structure, and functionality. They use simple shapes, placeholders, and minimal detail to quickly communicate ideas.
+- **When to Use:** Early in the design process for brainstorming, exploring concepts, and gathering feedback from stakeholders before investing time in detailed design.
+- **Characteristics:** Hand-drawn or basic digital sketches, limited color, no images, and minimal text.
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closely resemble the final product. They include specific content, accurate spacing, detailed UI elements, and sometimes basic interactivity.
+- **When to Use:** Later in the design process to refine layouts, specify functionality, and prepare for prototyping or development handoff.
+- **Characteristics:** Detailed digital designs, use of real or representative content, precise alignment, and inclusion of interactive elements.
+
+## What Type of Wireframe is Here?
+
+The wireframe examples and explanations provided in this documentation are **high-fidelity wireframes**. They have structure, layout, and basic functionality plus detailed design or content, making them ideal for showing the overal or complete project after completion.
